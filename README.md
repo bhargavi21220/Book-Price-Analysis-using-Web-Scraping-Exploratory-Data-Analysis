@@ -1,7 +1,5 @@
 # Book-Price-Analysis-using-Web-Scraping-Exploratory-Data-Analysis
 
-# 📚 Book Price Analysis using Web Scraping & EDA
-
 ## Overview
 
 This project demonstrates an end-to-end data workflow by collecting book data from the **Books to Scrape** website using Python, storing the scraped information in a CSV file, and performing Exploratory Data Analysis (EDA) to uncover pricing insights.
